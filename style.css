@@ -1,0 +1,29 @@
+.logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h2{
+  font-weight: 15;
+  text-align: center;
+}
+p{
+  font-weight: 300;
+}
+button{
+  background-color: 	#F33A6A;
+  color: white ;
+ 
+}
+.pic{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.ban{
+  border-style: solid;
+  border-color: #F33A6A;
+}
+h6{
+  text-align: center;
+}
