@@ -8,11 +8,12 @@ h2{
   text-align: center;
 }
 p{
-  font-weight: 300;
+  font-weight: 200;
 }
 button{
   background-color: 	#F33A6A;
   color: white ;
+  font-size: 25px;
  
 }
 .pic{
